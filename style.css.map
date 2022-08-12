@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"styles/main.scss",
+		"styles/constants/_colors.scss",
+		"styles/constants/_typography.scss",
+		"styles/mixins/_text-style.scss"
+	],
+	"names": [],
+	"mappings": ""
+}
